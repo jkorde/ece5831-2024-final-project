@@ -4,8 +4,8 @@ Teammates: Krina Trivedi and Julia Korde
 
 Presentation video:
 
-Presentation slides:
+Presentation slides: https://drive.google.com/drive/folders/1qnpHcfAP3iZ_p-_7MxEASfgmlDsh3dmf?usp=drive_link
 
-Report:
+Report: https://drive.google.com/drive/folders/178gwnLxkrykpFvOBRNGhygUHce1MLXja?usp=drive_link
 
-Dataset:
+Dataset: https://drive.google.com/drive/folders/1dGX8pZXX5GH1EPXGMMtVyrQu1SA10dgL?usp=drive_link
