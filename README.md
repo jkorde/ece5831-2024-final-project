@@ -2,7 +2,9 @@
 Final Project Submission
 Teammates: Krina Trivedi and Julia Korde
 
-Presentation video:
+Presentation video: https://youtu.be/ObxlrNt9c1E
+
+Code demo video: 
 
 Presentation slides: https://drive.google.com/drive/folders/1qnpHcfAP3iZ_p-_7MxEASfgmlDsh3dmf?usp=drive_link
 
