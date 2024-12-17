@@ -8,11 +8,13 @@ Fake news could spread misinformation, influence decision-making (such as voting
 
 - Presentation video: https://youtu.be/ObxlrNt9c1E
 
-- Code demo video: https://www.youtube.com/watch?v=BuE5RuiLTUM
-
 - Presentation slides: https://drive.google.com/drive/folders/1qnpHcfAP3iZ_p-_7MxEASfgmlDsh3dmf?usp=drive_link
 
 - Report: https://drive.google.com/drive/folders/178gwnLxkrykpFvOBRNGhygUHce1MLXja?usp=drive_link
 
 - Dataset: https://drive.google.com/drive/folders/1dGX8pZXX5GH1EPXGMMtVyrQu1SA10dgL?usp=drive_link
+
+- Code demo video: https://www.youtube.com/watch?v=BuE5RuiLTUM
+
+- Code: final-project.ipynb (included on Github)
 
